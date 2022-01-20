@@ -1,0 +1,4 @@
+Aula #05 JS
+
+typeof - Verifica o tipo da variável.
+Váriaveis podem alterar o tipo automaticamente ao receberam um novo valor em JS. Ex: (n = 05) n === 05! (n = "nome") n === nome

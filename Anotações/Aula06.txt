@@ -1,0 +1,13 @@
+Aula 06 JS
+
+É nescessário identificar o tipo de variável caso ela não seja uma string.
+Os comandos podem ser: Number.parseInt(variável) // Força a variável ser inteira
+                       Number.parseFloat(variável) // Força a variável ser .Float(Decimal)
+                       Number(variável) Recebe a variável como Real
+Para transformar uma variável Number em string usa-se: variável.toString() ou Strng(variável)                      
+
+variável.length // mostra quantos caractéres a string tem
+variável.toUpperCase() // deixa tudo em 'MAIÚSCULAS'
+variável.toLowerCase() // deixa tudo em 'minúsculas'
+
+Comando para mostrar cifra monetária: n1.toLocaleString('pt-br', {style: 'currency', currency: 'USD'})
